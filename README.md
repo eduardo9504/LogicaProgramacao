@@ -1,1 +1,1 @@
-# NewRepo
+Repositório para salvar os projetos sobre lógica de Programação Orientada a Objeto
